@@ -593,8 +593,8 @@ This project is for educational purposes.
 
 ---
 
-**Diyaariyay**: Antigravity AI Assistant  
-**Taariikhda**: 2026-02-04  
+**Diyaariyay**: Team Project
+**Taariikhda**: 2026-02-05  
 **Version**: 1.0
 
 ---
